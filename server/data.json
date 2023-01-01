@@ -1,0 +1,17 @@
+{
+    "users": [{
+        "name" : "Zain",
+        "email" : "zain@gmail.com",
+        "password" : "123",
+        "todo" : [
+            "pradeep kumar" , "rashid" , "zain", "huzaifa"
+        ]
+    },{
+        "name" : "huzaifa",
+        "email" : "huzaifa@gmail.com",
+        "password" : "334324",
+        "todo" : [
+            "Morning" , "Evening" , "Afternoon", "Night"
+        ]
+    }]
+}
